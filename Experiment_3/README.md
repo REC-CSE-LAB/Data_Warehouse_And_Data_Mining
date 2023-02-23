@@ -1,5 +1,14 @@
 # Experiment-3
 
+
+## Dataset:
+
+<div align="center">
+  <a href="https://github.com/REC-CSE-LAB/Data_Warehouse_And_Data_Mining_Lab/blob/main/Experiment_3/dataset.png">
+    <img src="https://github.com/REC-CSE-LAB/Data_Warehouse_And_Data_Mining_Lab/blob/main/Experiment_3/dataset.png?raw=true" />
+  </a>
+</div>
+
 ## Output:
 
 ```
